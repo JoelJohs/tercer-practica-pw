@@ -4,7 +4,9 @@ Este blog representa mi tercer práctica de programación web, utilizando actual
 
 ## Estructura del proyecto
 
+- .gitignore
 - index.html
+- nosotros.html
 - styles/
   - styles.css
   - normalize.css
@@ -30,8 +32,29 @@ Este proyecto tiene como objetivo desarrollar un blog de café, con un enfoque i
 
 La carpeta de imágenes (img/) alberga diversas imágenes, como banners, imágenes de blogs, imágenes de contacto, imágenes de cursos y un favicon para la identificación del sitio.
 
-## Próximos Pasos
+## Funcionamiento de la pagina
 
-El proyecto está en sus primeras etapas, pero planeo expandir las funcionalidades y mejorar el diseño a medida que avanzo en el desarrollo. Siéntete libre de contribuir o proporcionar sugerencias.
+### index.html
+
+El archivo index.html ha sido actualizado para incluir una barra de navegación, un encabezado con un mensaje distintivo sobre el blog de café, y secciones de blogs y cursos. Se han agregado enlaces a páginas específicas (nosotros.html, cursos.html, contacto.html) en la barra de navegación.
+
+### nosotros.html
+El archivo nosotros.html ha sido creado y añadido al proyecto. La estructura y contenido se han diseñado para ofrecer información sobre el equipo detrás del blog.
+
+## Actualizaciones
+
+El archivo index.html ahora presenta:
+
+- Barra de navegación con enlaces a "Nosotros," "Cursos," y "Contacto."
+- Encabezado destacando la temática del blog de café.
+- Sección principal con tres artículos de blog, cada uno con una imagen, título, y descripción.
+- Barra lateral con una lista de cursos, cada uno con detalles de precio y cupo, así como un enlace para obtener más información.
+- Footer con el logo y enlaces de navegación.
+
+Sección de Nosotros:
+
+- Se ha agregado una nueva sección en el archivo index.html bajo el nombre "Sobre Nosotros."
+- Se incluye una imagen representativa del equipo (img/nosotros.jpg).
+- El texto proporciona una visión sobre la comunidad y la filosofía del blog, destacando la autenticidad y la diversidad en torno al café.
 
 ¡Gracias por revisar! ☕️🖥️
