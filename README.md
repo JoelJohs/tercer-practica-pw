@@ -29,47 +29,37 @@ Este blog representa mi tercer práctica de programación web, utilizando actual
   - curso3.jpg
   - favicon.png
   - nosotros.jpg
+- js/
+  - modernizr.js
 
 ## Descripción
 
-Este proyecto tiene como objetivo desarrollar un blog de café, con un enfoque inicial en HTML y CSS. La estructura actual incluye un archivo principal (index.html), una carpeta de estilos (styles/) que contiene tanto el archivo de estilos personalizados (styles.css) como normalize.css para garantizar una apariencia consistente en diferentes navegadores.
+Este blog de café consta de varias páginas, cada una cumpliendo con un propósito específico. Desde la página principal (index.html) hasta las entradas individuales de blog (entrada1.html, entrada2.html, entrada3.html), se ha trabajado en la creación de un diseño coherente y accesible.
 
-La carpeta de imágenes (img/) alberga diversas imágenes, como banners, imágenes de blogs, imágenes de contacto, imágenes de cursos y un favicon para la identificación del sitio.
+La página de contacto (contacto.html) ofrece a los visitantes la posibilidad de comunicarse con nosotros, mientras que la sección de cursos (cursos.html) presenta información sobre los cursos disponibles.
+
 
 ## Funcionamiento de la pagina
 
-### index.html
+### Páginas Principales
 
-El archivo index.html ha sido actualizado para incluir una barra de navegación, un encabezado con un mensaje distintivo sobre el blog de café, y secciones de blogs y cursos. Se han agregado enlaces a páginas específicas (nosotros.html, cursos.html, contacto.html) en la barra de navegación.
+- index.html: Contiene la presentación principal del blog, destacando el enfoque en consejos y cursos relacionados con el café.
 
-### nosotros.html
+- nosotros.html: Proporciona información sobre el equipo detrás del blog, enfocándose en la pasión por el café y la diversidad de experiencias.
 
-El archivo nosotros.html ha sido creado y añadido al proyecto. La estructura y contenido se han diseñado para ofrecer información sobre el equipo detrás del blog.
+### Contenido Específico
 
-### contacto.html
+- entrada1.html, entrada2.html, entrada3.html: Cada una de estas páginas representa una entrada de blog individual. Incluyen imágenes, títulos y descripciones sobre temas relacionados con el café.
+  
+### Funcionalidades Adicionales
 
-El archivo contacto.html contendrá los elementos necesarios para facilitar la comunicación, como un formulario de contacto y posiblemente información sobre nuestras redes sociales.
+- cursos.html: Esta página muestra una lista de cursos disponibles, cada uno con detalles de precio y cupo, junto con enlaces para obtener más información.
 
-## Actualizaciones
+- contacto.html: Aquí, los visitantes pueden ponerse en contacto con el equipo del blog. Se pueden compartir comentarios, hacer preguntas o simplemente saludarnos.
 
-El archivo index.html ahora presenta:
+## Agradecimientos
 
-- Barra de navegación con enlaces a "Nosotros," "Cursos," y "Contacto."
-- Encabezado destacando la temática del blog de café.
-- Sección principal con tres artículos de blog, cada uno con una imagen, título, y descripción.
-- Barra lateral con una lista de cursos, cada uno con detalles de precio y cupo, así como un enlace para obtener más información.
-- Footer con el logo y enlaces de navegación.
+Quiero expresar un sincero agradecimiento a Juan Abreu (Johncito), un amigo muy querido, por su constante aliento y apoyo en mi camino de práctica y mejora en el desarrollo y programación web.
 
-Sección de Nosotros:
-
-- Se ha agregado una nueva sección en el archivo index.html bajo el nombre "Sobre Nosotros."
-- Se incluye una imagen representativa del equipo (img/nosotros.jpg).
-- El texto proporciona una visión sobre la comunidad y la filosofía del blog, destacando la autenticidad y la diversidad en torno al café.
-
-Sección de Blogs:
-
-- Se han añadido tres entradas de blog con imágenes, títulos, y descripciones.
-- Los enlaces de "Leer entrada" ahora apuntan a una página ficticia (entrada.html).
-- Se ha corregido el enlace del logo en la barra de navegación, ahora dirige correctamente a index.html.
-
+ Este ejercicio se centra en fortalecer habilidades esenciales en diseño web y estructuración de contenido. ¡Disfruta explorando el mundo del café a través de este blog ficticio! ☕️🌐
 ¡Gracias por revisar! ☕️🖥️
