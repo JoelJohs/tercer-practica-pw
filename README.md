@@ -38,7 +38,6 @@ Este blog de café consta de varias páginas, cada una cumpliendo con un propós
 
 La página de contacto (contacto.html) ofrece a los visitantes la posibilidad de comunicarse con nosotros, mientras que la sección de cursos (cursos.html) presenta información sobre los cursos disponibles.
 
-
 ## Funcionamiento de la pagina
 
 ### Páginas Principales
