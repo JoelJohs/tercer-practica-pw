@@ -7,6 +7,10 @@ Este blog representa mi tercer práctica de programación web, utilizando actual
 - .gitignore
 - index.html
 - nosotros.html
+- cursos.html
+- entrada1.html
+- entrada2.html
+- entrada3.html
 - styles/
   - styles.css
   - normalize.css
@@ -39,7 +43,12 @@ La carpeta de imágenes (img/) alberga diversas imágenes, como banners, imágen
 El archivo index.html ha sido actualizado para incluir una barra de navegación, un encabezado con un mensaje distintivo sobre el blog de café, y secciones de blogs y cursos. Se han agregado enlaces a páginas específicas (nosotros.html, cursos.html, contacto.html) en la barra de navegación.
 
 ### nosotros.html
+
 El archivo nosotros.html ha sido creado y añadido al proyecto. La estructura y contenido se han diseñado para ofrecer información sobre el equipo detrás del blog.
+
+### contacto.html
+
+El archivo contacto.html contendrá los elementos necesarios para facilitar la comunicación, como un formulario de contacto y posiblemente información sobre nuestras redes sociales.
 
 ## Actualizaciones
 
@@ -56,5 +65,11 @@ Sección de Nosotros:
 - Se ha agregado una nueva sección en el archivo index.html bajo el nombre "Sobre Nosotros."
 - Se incluye una imagen representativa del equipo (img/nosotros.jpg).
 - El texto proporciona una visión sobre la comunidad y la filosofía del blog, destacando la autenticidad y la diversidad en torno al café.
+
+Sección de Blogs:
+
+- Se han añadido tres entradas de blog con imágenes, títulos, y descripciones.
+- Los enlaces de "Leer entrada" ahora apuntan a una página ficticia (entrada.html).
+- Se ha corregido el enlace del logo en la barra de navegación, ahora dirige correctamente a index.html.
 
 ¡Gracias por revisar! ☕️🖥️
